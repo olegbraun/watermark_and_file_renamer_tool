@@ -88,28 +88,28 @@
 
 Исходная структура папки:
 
-/path/to/your/folder/
-image1.jpg
-image2.jpg
-file1.stl
-file2.zip
+/path/to/your/folder/  
+image1.jpg  
+image2.jpg  
+file1.stl  
+file2.zip  
 
 После запуска программы:
 
-/path/to/your/folder/
-image1.jpg (с водяным знаком "Your text")
-image2.jpg (с водяным знаком "Your text")
-@your text_file1.stl
-@your text_file2.zip
+/path/to/your/folder/  
+image1.jpg (с водяным знаком "Your text")  
+image2.jpg (с водяным знаком "Your text")  
+@your text_file1.stl  
+@your text_file2.zip  
 
 ### 6. Логирование
 
 Программа выводит результаты своей работы в консоль. Например:
 
-Added watermark in: /path/to/your/folder/image1.jpg
-Added watermark in: /path/to/your/folder/image2.jpg
-Rename: /path/to/your/folder/file1.stl -> /path/to/your/folder/@D3DDimon_file1.stl
-Rename: /path/to/your/folder/file2.zip -> /path/to/your/folder/@D3DDimon_file2.zip
+Added watermark in: /path/to/your/folder/image1.jpg  
+Added watermark in: /path/to/your/folder/image2.jpg  
+Rename: /path/to/your/folder/file1.stl -> /path/to/your/folder/@D3DDimon_file1.stl  
+Rename: /path/to/your/folder/file2.zip -> /path/to/your/folder/@D3DDimon_file2.zip  
 
 Если возникнут ошибки, они также будут выведены в консоль.
 
