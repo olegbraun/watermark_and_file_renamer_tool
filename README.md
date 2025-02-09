@@ -108,8 +108,8 @@ image2.jpg (с водяным знаком "Your text")
 
 Added watermark in: /path/to/your/folder/image1.jpg  
 Added watermark in: /path/to/your/folder/image2.jpg  
-Rename: /path/to/your/folder/file1.stl -> /path/to/your/folder/@D3DDimon_file1.stl  
-Rename: /path/to/your/folder/file2.zip -> /path/to/your/folder/@D3DDimon_file2.zip  
+Rename: /path/to/your/folder/file1.stl -> /path/to/your/folder/your text_file1.stl  
+Rename: /path/to/your/folder/file2.zip -> /path/to/your/folder/your text_file2.zip  
 
 Если возникнут ошибки, они также будут выведены в консоль.
 
