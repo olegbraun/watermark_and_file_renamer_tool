@@ -21,7 +21,7 @@ for jpg_file in jpg_files:
 
 # Рекурсивно ищем все файлы с нужными расширениями
 for ext in EXTENSIONS:
-    files = glob(os.path.join(WORK_FOLDER, "**/*" + ext), recursive=True)
+    files = glob(os.path.join(WORK_FOLDER, "*" + ext), recursive=True)
     # Переименовываем каждый файл
     for file_path in files:
         try:
